@@ -9,9 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 2nd Year **ECE Student**
+- 🎓 3rd Year **ECE-CE Student**
 - ⚡ Passionate about **AI/ML**, **Web Development**, and **IoT**
-- 🔭 Currently exploring **Fourier Networks**, **MHA**, and **ROS**
+- 🔭 Currently exploring **Full stack development**, **deep learning**, and **ROS**
 - 📚 Learning advanced **DSA**, **Python frameworks**, and **Deployment**
 - 🤝 Open to **Internships**, **Freelance Projects**, and **Hackathons**
 
