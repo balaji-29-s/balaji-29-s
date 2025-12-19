@@ -58,14 +58,6 @@
 
 ---
 
-## 🏆 GitHub Trophies (FIXED)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balaji-29-s&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🧠 Developer Mindset
 
 ✔ Think in **systems, not just syntax**  
@@ -81,14 +73,6 @@
 <!--END_SECTION:waka-->
 
 > ⏱ Updates automatically every week using GitHub Actions
-
----
-
-## 👀 Profile Visitors Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balaji-29-s&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
