@@ -1,57 +1,81 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Balaji+%F0%9F%91%8B;ECE+Student+%7C+Tech+Explorer;ML+%7C+Web+Dev+%7C+IoT+%7C+AI;Turning+Ideas+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Balaji+👋;ECE+Student+%7C+Tech+Explorer;AI+%7C+ML+%7C+Web+%7C+IoT;Building+Impactful+Tech+One+Commit+at+a+Time+💻" />
 </p>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:0077b6&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
-
-## 👨‍💻 About Me
-
-- 🎓 3rd Year **ECE-CE Student**
-- ⚡ Passionate about **AI/ML**, **Web Development**, and **IoT**
-- 🔭 Currently exploring **Full stack development**, **deep learning**, and **ROS**
-- 📚 Learning advanced **DSA**, **Python frameworks**, and **Deployment**
-- 🤝 Open to **Internships**, **Freelance Projects**, and **Hackathons**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:0077b6&height=140&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff" />
 
 ---
 
-## 🚀 My Projects
+## 👨‍🚀 About Me
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔬 [**Disease Prediction using Ensemble Models**](https://github.com/balaji-29-s/disease-prediction-using-ensemble-models-heart-and-parkinsons-) | Predicts heart & Parkinson's disease using ensemble learning. | Python, ML |
-| 🧠 [**AI Interview Mocker**](https://github.com/balaji-29-s/Ai-interview-mocker) | Simulates AI-based mock interviews for tech prep. | JavaScript |
-| 🌱 [**Crop Recommendation**](https://github.com/balaji-29-s/crop-recommendation-using-machine-learning-models) | ML model recommends optimal crop based on soil features. | Jupyter Notebook, ML |
-| 🗣️ [**Advanced RAG QA System**](https://github.com/balaji-29-s/Advance-RAG-Question-and-answering-System) | Retrieval-augmented QA system for long-form answers. | Python, Transformers |
-| ✉️ [**Cold Mail Generator using LLaMA**](https://github.com/balaji-29-s/cold-mail-generator-using-llama) | LLM-powered generator for personalized cold emails. | Jupyter Notebook |
-| 🧩 [**Quiz Web App**](https://github.com/balaji-29-s/project-quiz) | A TypeScript-based quiz application. | TypeScript, Web Dev |
+🎓 **3rd Year ECE–CE Student**  
+💡 Curious technologist who loves turning ideas into scalable solutions  
+⚙️ Strong interest in **AI/ML**, **Full-Stack Development**, **IoT**, and **ROS**  
+🏆 Actively participating in **hackathons**, **open-source**, and **internships**  
+📈 Believer in *learning by building & consistency over perfection*
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧠 What I’m Currently Focused On (Live)
+
+- 🚀 Building **production-ready full-stack applications**
+- 🤖 Training & deploying **ML / DL models**
+- 📊 Improving **DSA & problem-solving**
+- 🐧 Exploring **Linux, Docker & deployment workflows**
+- 🤝 Contributing to **real-world projects & collaborations**
+
+> ⚡ This section evolves every week as my skills grow.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,html,css,jupyter,react,nodejs,mysql,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,html,css,react,nodejs,mysql,jupyter,git,github,linux,vscode,figma" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity (Auto-Updating)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balaji-29-s&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji-29-s&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balaji-29-s&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji-29-s&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-29-s&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-29-s&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji-29-s&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balaji-29-s&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🧩 Fun Developer Facts
+
+- 🧠 I enjoy solving **DSA problems late at night**
+- 🔍 I love breaking complex systems into simple logic
+- 📚 I learn best by **building + debugging**
+- 🌱 Big believer in **clean code & meaningful commits**
+
+---
+
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:kingbalaji4254@gmail.com">
@@ -67,6 +91,8 @@
 
 ---
 
-> _"Learning never exhausts the mind — only strengthens it."_  
+### ✨ Quote I Live By
+
+> *“Small progress each day leads to massive results.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:0077b6&height=140&section=footer" />
