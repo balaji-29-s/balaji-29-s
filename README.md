@@ -1,6 +1,6 @@
-<!-- Typing SVG -->
+<!-- Typing SVG (FIXED & STABLE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Balaji+👋;ECE+Student+%7C+Tech+Explorer;AI+%7C+ML+%7C+Web+%7C+IoT;Building+Impactful+Tech+One+Commit+at+a+Time+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Balaji+👋;ECE+Student+%7C+Tech+Explorer;AI+%7C+ML+%7C+Web+%7C+IoT;Consistently+Building+and+Learning+💻" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:0077b6&height=140&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff" />
@@ -10,22 +10,22 @@
 ## 👨‍🚀 About Me
 
 🎓 **3rd Year ECE–CE Student**  
-💡 Curious technologist who loves turning ideas into scalable solutions  
-⚙️ Strong interest in **AI/ML**, **Full-Stack Development**, **IoT**, and **ROS**  
-🏆 Actively participating in **hackathons**, **open-source**, and **internships**  
-📈 Believer in *learning by building & consistency over perfection*
+💡 Passionate about solving real-world problems using technology  
+⚙️ Focused on **AI/ML**, **Full-Stack Development**, **IoT**, and **ROS**  
+🏆 Hackathon enthusiast & continuous learner  
+📌 Strong believer in *build → break → learn → repeat*
 
 ---
 
-## 🧠 What I’m Currently Focused On (Live)
+## ⚡ What I’m Doing Right Now (Live)
 
-- 🚀 Building **production-ready full-stack applications**
-- 🤖 Training & deploying **ML / DL models**
-- 📊 Improving **DSA & problem-solving**
-- 🐧 Exploring **Linux, Docker & deployment workflows**
-- 🤝 Contributing to **real-world projects & collaborations**
+- 🚀 Developing **full-stack applications**
+- 🤖 Training **ML & DL models**
+- 🧠 Strengthening **DSA & system thinking**
+- 🐧 Exploring **Linux, Docker & deployments**
+- 🤝 Collaborating on **real-world tech projects**
 
-> ⚡ This section evolves every week as my skills grow.
+> 🟢 This section evolves automatically with my GitHub activity.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Activity (Auto-Updating)
+## 📊 GitHub Performance (Auto-Updating)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=balaji-29-s&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji-29-s&theme=tokyo-night&hide_border=true" />
@@ -58,20 +58,37 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (FIXED)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balaji-29-s&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=balaji-29-s&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🧩 Fun Developer Facts
+## 🧠 Developer Mindset
 
-- 🧠 I enjoy solving **DSA problems late at night**
-- 🔍 I love breaking complex systems into simple logic
-- 📚 I learn best by **building + debugging**
-- 🌱 Big believer in **clean code & meaningful commits**
+✔ Think in **systems, not just syntax**  
+✔ Prefer **clean & readable code**  
+✔ Learn by **building real projects**  
+✔ Optimize for **long-term growth**
+
+---
+
+## ⏳ Weekly Coding Metrics (Auto)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> ⏱ Updates automatically every week using GitHub Actions
+
+---
+
+## 👀 Profile Visitors Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balaji-29-s&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -91,8 +108,8 @@
 
 ---
 
-### ✨ Quote I Live By
+### 💬 Personal Motto
 
-> *“Small progress each day leads to massive results.”*
+> *“Consistency beats talent when talent stops practicing.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff0,100:0077b6&height=140&section=footer" />
