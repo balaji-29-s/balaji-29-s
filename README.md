@@ -12,16 +12,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-29-s)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/balaji-29-s)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bs8315@srmist.edu.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingbalaji4254@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/balaji-29-s)
 [![AWS](https://img.shields.io/badge/AWS%20Certified-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=balaji-29-s&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </div>
 
 ---
