@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=70A5FD&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Balaji+S+%F0%9F%91%8B;Building+AI-Powered+Full+Stack+Apps+%F0%9F%9A%80;PyTorch+%7C+Next.js+%7C+LLMs+%7C+RAG+Pipelines;AWS+Certified+%E2%98%81%EF%B8%8F+%7C+CGPA+9.74+%F0%9F%8E%93+%7C+Dept.+Rank+1+%F0%9F%A5%87;Always+Learning.+Always+Shipping.+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=70A5FD&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Balaji+S+%F0%9F%91%8B;Building+AI-Powered+Full+Stack+Apps+%F0%9F%9A%80;PyTorch+%7C+Next.js+%7C+LLMs+%7C+RAG+Pipelines;AWS+Certified+%E2%98%81%EF%B8%8F+%7C+CGPA+9.74;Always+Learning.+Always+Shipping.+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
