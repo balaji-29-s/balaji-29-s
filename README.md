@@ -103,26 +103,28 @@ print(BalajS().fun_fact())
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Balaji-29/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kingbala9bqy?tab=activity)
+[![LeetCode](https://img.shields.io/badge/LeetCode%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/balaji-29-s/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/balaji-29-s)
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/balaji-29-s?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
 
 </div>
 
+<br/>
+
 ```
-╔══════════════════════════════════════════════════════╗
-║              DSA PROGRESS TRACKER                    ║
-╠══════════════════╦══════════════════════╦════════════╣
-║ Topic            ║ Progress             ║ Status     ║
-╠══════════════════╬══════════════════════╬════════════╣
-║ Arrays & Strings ║ ████████████████████ ║ ✅ Strong  ║
-║ Sliding Window   ║ ████████████████████ ║ ✅ Done    ║
-║ Monotonic Stack  ║ ████████████████████ ║ ✅ Done    ║
-║ Binary Search    ║ ████████████████░░░░ ║ 💪 Strong  ║
-║ Trees & BST      ║ ████████████████░░░░ ║ 💪 Strong  ║
-║ Dynamic Prog.    ║ ██████████████░░░░░░ ║ 🔥 Almost  ║
-║ Graphs           ║ ██████████░░░░░░░░░░ ║ ⚡ Started ║
-║ Backtracking     ║ █████████░░░░░░░░░░░ ║ 🛠 Grind   ║
-╚══════════════════╩══════════════════════╩════════════╝
+  Topic-wise Progress (updated manually as I grind)
+  ──────────────────────────────────────────────────
+  Arrays & Strings   ████████████████████  ✅ Strong
+  Sliding Window     ████████████████████  ✅ Done
+  Monotonic Stack    ████████████████████  ✅ Done
+  Binary Search      ████████████████░░░░  💪 Strong
+  Trees & BST        ████████████████░░░░  💪 Strong
+  Dynamic Prog.      ██████████████░░░░░░  🔥 Almost Done
+  Graphs             ██████████░░░░░░░░░░  ⚡ Started
+  Backtracking       █████████░░░░░░░░░░░  🛠 Grinding
 ```
 
 ---
