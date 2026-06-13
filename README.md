@@ -103,7 +103,7 @@ print(BalajS().fun_fact())
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode%20230%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Balaji-29/)
+[![LeetCode](https://img.shields.io/badge/LeetCode%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Balaji-29/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kingbala9bqy?tab=activity)
 
 </div>
