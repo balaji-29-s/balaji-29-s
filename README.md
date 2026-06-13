@@ -99,22 +99,16 @@ print(BalajS().fun_fact())
 
 ---
 
-## 🧠 DSA Grind
+🧠 DSA Grind
 
 <div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/balaji-29-s/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/balaji-29-s)
+Show Image
+Show Image
 
 <br/>
-
-<img src="https://leetcard.jacoblin.cool/balaji-29-s?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
-
+<img src="https://leetcard.jacoblin.cool/Balaji-29?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
 </div>
-
 <br/>
-
-```
   Topic-wise Progress (updated manually as I grind)
   ──────────────────────────────────────────────────
   Arrays & Strings   ████████████████████  ✅ Strong
@@ -125,17 +119,14 @@ print(BalajS().fun_fact())
   Dynamic Prog.      ██████████████░░░░░░  🔥 Almost Done
   Graphs             ██████████░░░░░░░░░░  ⚡ Started
   Backtracking       █████████░░░░░░░░░░░  🛠 Grinding
-```
 
----
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=balaji-29-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12&rank_icon=github" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-29-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" />
 </div>
-
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=balaji-29-s&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12&date_format=j%20M%5B%20Y%5D"/>
 </div>
