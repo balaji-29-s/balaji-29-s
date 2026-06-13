@@ -106,10 +106,6 @@ print(BalajS().fun_fact())
 [![LeetCode](https://img.shields.io/badge/LeetCode%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Balaji-29/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/balaji-29-s)
 
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/Balaji-29?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
-
 </div>
 
 <br/>
