@@ -31,8 +31,7 @@ class BalajS:
     role       = "Full Stack Dev × AI/ML Engineer"
     location   = "Chennai, India 🇮🇳"
     college    = "SRMIST — B.Tech ECE (2023–27)"
-    cgpa       = 9.74
-    rank       = "Department Rank #1 | SGPA 10.0"
+    cgpa       = 9.71
 
     def current_obsessions(self):
         return {
