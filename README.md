@@ -38,7 +38,7 @@ class BalajS:
             "🤖 AI"        : ["LLMs", "RAG Pipelines", "AI Agents"],
             "⚡ Full Stack" : ["Next.js", "TypeScript", "PostgreSQL"],
             "🧠 Research"  : ["PyTorch", "Transformers", "Time-Series"],
-            "📐 DSA"       : ["Graphs", "DP", "Monotonic Stack ✅"],
+            "📐 DSA"       : ["Graphs", "DP", "Tree"],
         }
 
     def fun_fact(self):
@@ -102,22 +102,6 @@ print(BalajS().fun_fact())
 
 </div>
 
-<br/>
-
-```
-  Topic-wise Progress (updated manually as I grind)
-  ──────────────────────────────────────────────────
-  Arrays & Strings   ████████████████████  ✅ Strong
-  Sliding Window     ████████████████████  ✅ Done
-  Monotonic Stack    ████████████████████  ✅ Done
-  Binary Search      ████████████████░░░░  💪 Strong
-  Trees & BST        ████████████████░░░░  💪 Strong
-  Dynamic Prog.      ██████████████░░░░░░  🔥 Almost Done
-  Graphs             ██████████░░░░░░░░░░  ⚡ Started
-  Backtracking       █████████░░░░░░░░░░░  🛠 Grinding
-```
-
----
 
 ## 📊 GitHub Stats
 
